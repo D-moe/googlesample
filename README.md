@@ -1,8 +1,3 @@
-This is the README file added back
+# About Me
 
-I am making changes to this file.
-
-We want to keep this file
-
-Made more confusing 
-
+This is my about me project. It's not **everything** about me, but it's a start. 
